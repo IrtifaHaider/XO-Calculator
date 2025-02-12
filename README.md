@@ -94,16 +94,12 @@ Open `docs/html/index.html` in a web browser to view the documentation.
 
 ---
 
-
----
-
 ### 🛠️ Code Structure
 The project is organized as follows:
 
 - `XO-calculator.c`: Main source file containing the game and calculator logic.
 - `Doxyfile`: Configuration file for generating documentation.
 - `docs/`: Folder containing the generated documentation (after running Doxygen).
-- `screenshots/`: Folder containing screenshots of the program in action.
 
 ---
 
