@@ -1,12 +1,8 @@
 ## 🎮 Crisscross Game & Calculator 🧮
 
-### 📌 1st Semester Project
-This project was developed as part of my 1st semester coursework to practice C programming concepts, including game logic, user input handling, and function-based programming.
-
----
 
 ### 📖 About This Project
-A C-based project that combines the classic Crisscross Game (Tic-Tac-Toe) with a basic calculator. Users can play against another player or use the calculator to perform arithmetic operations.
+A C-based project that combines the classic Crisscross Game (Tic-Tac-Toe) with a basic calculator. Users can play against another player or use the calculator to perform arithmetic operations. This project was developed as part of my 1st semester coursework to practice C programming concepts, including game logic, user input handling, and function-based programming.
 
 ---
 
